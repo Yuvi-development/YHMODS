@@ -17,6 +17,14 @@
       "status": "approved",
       "expiry_date": "2099-12-31",
       "hwid": []
+    },
+    "YH-YISJKD": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2027-01-01",
+      "hwid": [
+        "059039ed224ce8b9"
+      ]
     }
   }
 }
