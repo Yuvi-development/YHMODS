@@ -7,7 +7,8 @@
     "maintenance": false,
     "banned_devices": [
       "hacker_hwid_1",
-      "spammer_hwid_2"
+      "spammer_hwid_2",
+      "your_device_id_here"
     ]
   },
   "keys": {
@@ -15,7 +16,6 @@
       "status": "approved",
       "expiry_date": "2026-12-31",
       "hwid": [
-        "your_device_id_here",
         "another_device_id_here"
       ]
     },
