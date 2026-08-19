@@ -1,9 +1,9 @@
 {
   "settings": {
-    "title": "PREMIUM ACCESS FOR MY SUBSCRIBER",
+    "title": "PREMIUM ACCESS",
     "subtitle": "Copy your Device ID and send it to Admin.",
-    "admin_url": "https://instagram.com/Yhmods",
-    "banner_url": "https://ibb.co/rLSKcq9",
+    "admin_url": "https://instagram.com/yhmods1",
+    "banner_url": "https://i.imgur.com/K3yZ8vN.jpg",
     "maintenance": false,
     "banned_devices": [
       "hacker_hwid_1",
@@ -11,7 +11,7 @@
     ]
   },
   "keys": {
-    "DP-VIP-101": {
+    "YH-VIP-101": {
       "status": "approved",
       "expiry_date": "2026-12-31",
       "hwid": [
@@ -19,7 +19,7 @@
         "another_device_id_here"
       ]
     },
-    "DP-UNIVERSAL": {
+    "YH-UNIVERSAL": {
       "status": "approved",
       "expiry_date": "2099-12-31",
       "hwid": [
