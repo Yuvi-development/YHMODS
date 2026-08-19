@@ -20,9 +20,7 @@
     "YH-UNIVERSAL": {
       "status": "approved",
       "expiry_date": "2099-12-31",
-      "hwid": [
-        "ANY"
-      ]
+      "hwid": []
     }
   }
 }
