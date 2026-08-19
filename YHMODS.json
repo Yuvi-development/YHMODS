@@ -15,9 +15,7 @@
     "YH-VIP-101": {
       "status": "approved",
       "expiry_date": "2026-12-31",
-      "hwid": [
-        "another_device_id_here"
-      ]
+      "hwid": []
     },
     "YH-UNIVERSAL": {
       "status": "approved",
